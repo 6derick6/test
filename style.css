@@ -1,0 +1,22 @@
+body{
+	background-color: black;
+}
+
+.div1{
+	color: #15944b;
+	background: white;
+	font-size: 50px;
+	font-family: arial;
+	margin-top: -68px;
+}
+.img1{
+	display: table-cell;
+	float: left;
+	margin-top: -170px;
+	margin-left: 20px;
+}
+.div2{
+	float: right;
+	margin-right: 40px;
+	margin-top: -160px;
+}
